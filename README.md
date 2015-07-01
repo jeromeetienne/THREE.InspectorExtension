@@ -1,6 +1,6 @@
 # THREE.Inspector Extension
 
-![THREE.Inspector Extension](/about/snapshot.jpg)
+![THREE.Inspector Extension](/about/snapshot.png)
 
 Currently requires http://localhost:8000/editor/index.html (r72dev)
 
